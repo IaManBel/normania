@@ -16,7 +16,7 @@ Norman Platform Architecture:
 │    International Market Analysis    │
 │    Regulatory Compliance Mapping    │
 │    ISO Standards Integration        │
-└─────────────────────────────────────┘/Users/manuelbeltran/Downloads/norman_readme.md
+└─────────────────────────────────────┘
               ↕
 ┌─────────────────────────────────────┐
 │       Food Safety Module            │
